@@ -898,7 +898,7 @@ html {
 }
 
 /* Responsive Design */
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .hero-content,
   .experience-content,
   .why-choose-content {
@@ -1136,7 +1136,7 @@ html {
 }
 
 /* Responsive Footer */
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .footer-main {
     grid-template-columns: 1fr;
     gap: 2rem;
@@ -1596,7 +1596,7 @@ html {
 }
 
 /* Responsive Contact & CTA */
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .contact-container {
     grid-template-columns: 1fr;
     gap: 40px;
